@@ -7,33 +7,44 @@ body {
     background-color: rgb(65, 65, 65);
 }
 
-.logoText {
-    font-size: 30px;
-    letter-spacing: 2px;
-    color: white;
-}
-.padding {
-    padding: 50px;
+.nav-link {
+    font-size: 20px;
+    color: rgb(172, 172, 172);
 }
 
-.coverImageLogo {
-    align-content: center;
+a:hover {
+    color: rgb(0, 225, 255);
+}
+
+.active {
+    color: rgb(0, 225, 255);
+}
+
+.logoText {
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: white;
 }
 
 .titlePanel {
     background-color: rgb(65, 65, 65);
-    color: white;
+    font-size: 20px;
+    color: rgb(172, 172, 172);
 }
 
 .clearfix {
     overflow: auto;
 }
 
-.test {
-    background-color: red;
+form {
+    margin-bottom: 500px;
 }
 
 .footerStyle {
+    clear: both;
+    font-size: 20px;
+    position: relative;
+    bottom: 0px;
     background-color: rgb(65, 65, 65);
-    color: white
+    color: rgb(172, 172, 172);
 }
