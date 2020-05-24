@@ -1,0 +1,39 @@
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(65, 65, 65);
+}
+
+.logoText {
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: white;
+}
+.padding {
+    padding: 50px;
+}
+
+.coverImageLogo {
+    align-content: center;
+}
+
+.titlePanel {
+    background-color: rgb(65, 65, 65);
+    color: white;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.test {
+    background-color: red;
+}
+
+.footerStyle {
+    background-color: rgb(65, 65, 65);
+    color: white
+}
